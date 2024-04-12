@@ -1,0 +1,29 @@
+.App {
+    margin-left: 50px;
+    text-align:start;
+    color: rgb(133, 139, 35);
+  }
+  div{
+    background-color: #5cebc7;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  body{
+    background-color: rgb(102, 85, 112);
+  }
+  input{
+    width: 200px;
+    height: 30px;
+    font-size: larger;
+    text-align:start;
+    border-radius: 10px;
+    border:2px solid rgb(109, 121, 46);
+  }
+  label{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  h1{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
